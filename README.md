@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+
 
 
 - 🔭 I’m currently working on **Android Development**
@@ -14,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/premkumar4448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="premkumar4448" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/coderprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coderprem" height="30" width="40" /></a>
-<a href="https://instagram.com/coderprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coderprem" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/coderpremm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coderpremm" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/coderprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coderprem" height="30" width="40" /></a>
+<a href="https://twitter.com/premkumar4448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="premkumar4448" height="30" width="150" /></a>
+<a href="https://linkedin.com/in/coderprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coderprem" height="30" width="150" /></a>
+<a href="https://instagram.com/coderprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coderprem" height="30" width="150" /></a>
+<a href="https://www.codechef.com/users/coderpremm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coderpremm" height="30" width="150" /></a>
+<a href="https://auth.geeksforgeeks.org/user/coderprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coderprem" height="30" width="150" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
