@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/coderprem">
 <img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='40'>
 </a>
-<a href="https://www.instagram.com/coderprem">
+<a href="https://www.instagram.com/_premkumar1">
 <img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='40'>
 </a>
 <a href="https://twitter.com/PremKumar4448">
